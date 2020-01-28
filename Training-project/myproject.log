@@ -1,0 +1,9 @@
+01:57:38,641  INFO main SpamPageTest:addLetterToSpamTest:48 - info message
+02:06:09,391  INFO main SpamPageTest:addLetterToSpamTest:48 - info message
+02:09:43,284  INFO main SpamPageTest:addLetterToSpamTest:48 - info message
+02:09:47,674 ERROR main SpamPageTest:returnLetterFromSpamTest:55 - error message
+15:14:48,323  INFO main SpamPageTest:addLetterToSpamTest:48 - info message
+15:14:51,891 ERROR main SpamPageTest:returnLetterFromSpamTest:55 - error message
+18:53:36,286  INFO main SpamPageTest:addLetterToSpamTest:48 - info message
+15:11:43,335  INFO main SpamPageTest:addLetterToSpamTest:48 - info message
+15:11:47,358 ERROR main SpamPageTest:returnLetterFromSpamTest:55 - error message
