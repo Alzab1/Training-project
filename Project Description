@@ -1,0 +1,8 @@
+My final project task was to create a mail.ru website testing automation framework.
+To accomplish this I have constructed a Maven project with the Selenium, Cucumber, TestNG, MySQL connector, Log4j, 
+commons-io libraries. Description of test scripts is located in separate .feature-files. 
+Some tests I made in TestNG test classes which runs by suite.xml file (variety purely for educational purposes).
+In my project I implemented POM design pattern. User data stored in the MySQL database, this data is read using JDBC connection.
+Part of the data is stored in xml file, data extraction is done using DOM parser.
+Project supports the ability to log (Log4j).
+One test class implements putting screenshots of each step of the tests in a specific folder.
